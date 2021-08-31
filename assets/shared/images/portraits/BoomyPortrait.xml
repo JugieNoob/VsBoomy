@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BoomyPortrait.png">
+<SubTexture name="Boomy Enter Instance0000" x="0" y="0" width="664" height="372" frameX="0" frameY="0" frameWidth="664" frameHeight="372" />
+<SubTexture name="Boomy Enter Instance0001" x="664" y="0" width="664" height="372" frameX="0" frameY="0" frameWidth="664" frameHeight="372" />
+<SubTexture name="Boomy Enter Instance0002" x="1328" y="0" width="664" height="372" frameX="0" frameY="0" frameWidth="664" frameHeight="372" />
+<SubTexture name="Boomy Enter Instance0003" x="1992" y="0" width="664" height="372" frameX="0" frameY="0" frameWidth="664" frameHeight="372" />
+</TextureAtlas>

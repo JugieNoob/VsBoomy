@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GFPortrait.png"><SubTexture name="GF Enter Instance0000" x="0" y="0" width="433" height="331" frameX="0" frameY="0" frameWidth="433" frameHeight="331" />
+<SubTexture name="GF Enter Instance0001" x="433" y="0" width="433" height="331" frameX="0" frameY="0" frameWidth="433" frameHeight="331" />
+<SubTexture name="GF Enter Instance0002" x="866" y="0" width="433" height="331" frameX="0" frameY="0" frameWidth="433" frameHeight="331" />
+<SubTexture name="GF Enter Instance0003" x="1299" y="0" width="433" height="331" frameX="0" frameY="0" frameWidth="433" frameHeight="331" />
+</TextureAtlas>

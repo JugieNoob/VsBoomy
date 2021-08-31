@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BFPortrait.png">
+<SubTexture name="BF Enter Instance0000" x="0" y="0" width="588" height="368" frameX="0" frameY="0" frameWidth="588" frameHeight="368" />
+<SubTexture name="BF Enter Instance0001" x="588" y="0" width="588" height="368" frameX="0" frameY="0" frameWidth="588" frameHeight="368" />
+<SubTexture name="BF Enter Instance0002" x="1176" y="0" width="588" height="368" frameX="0" frameY="0" frameWidth="588" frameHeight="368" />
+<SubTexture name="BF Enter Instance0003" x="1764" y="0" width="588" height="368" frameX="0" frameY="0" frameWidth="588" frameHeight="368" />
+</TextureAtlas>
